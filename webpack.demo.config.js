@@ -1,5 +1,6 @@
 const path = require('path')
 const { VueLoaderPlugin } = require('vue-loader')
+const webpack=require('webpack')
 var HtmlWebpackPlugin = require('html-webpack-plugin') // 把打包后的文件直接注入到html模板中
 module.exports = {
   mode: process.env.NODE_ENV === 'production' ? 'production' : 'development', // 设置开发模式
