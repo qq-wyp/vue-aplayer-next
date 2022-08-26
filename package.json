@@ -1,6 +1,6 @@
 {
   "name": "vue-aplayer-next",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy-to-use music player for Vue 3.x",
   "main": "dist/vue-aplayer.min.js",
   "files": [
