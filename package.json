@@ -1,6 +1,6 @@
 {
   "name": "vue-aplayer-next",
-  "version": "1.6.0",
+  "version": "2.0.0",
   "description": "Easy-to-use music player for Vue 3.x",
   "main": "dist/vue-aplayer.min.js",
   "files": [
@@ -33,7 +33,7 @@
   ],
   "author": {
     "name": "Doma",
-    "updater":"xiangyang",
+    "updater": "xiangyang",
     "email": "leishenghao@126.com",
     "url": "https://github.com/SevenOutman"
   },
